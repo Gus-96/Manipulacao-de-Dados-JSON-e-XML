@@ -21,8 +21,8 @@ Estrutura do Projeto
 
 Como Usar
 Clone o repositório (ou baixe o código-fonte):
-- git clone https://github.com/seu-usuario/seu-repositorio.git
-- cd seu-repositorio
+- git clone git@github.com:Gus-96/Manipulacao-de-Dados-JSON-e-XML.git
+- cd Manipulacao-de-Dados-JSON-e-XML
 
 Abra o projeto em um servidor local:
 - Se estiver usando o VS Code, instale a extensão Live Server e clique em "Go Live" no canto inferior direito.
