@@ -13,12 +13,11 @@ Antes de começar, certifique-se de ter instalado:
 - Um servidor local (como Live Server no VS Code) para evitar problemas de CORS ao carregar arquivos locais.
 
 Estrutura do Projeto
-.
-├── dados.json          # Arquivo JSON contendo as transações
-├── dados.xml           # Arquivo XML contendo as transações
-├── index.html          # Arquivo HTML principal
-├── script.js           # Arquivo JavaScript com a lógica do projeto
-└── README.md           # Este arquivo
+- dados.json          # Arquivo JSON contendo as transações
+- dados.xml           # Arquivo XML contendo as transações
+- index.html          # Arquivo HTML principal
+- script.js           # Arquivo JavaScript com a lógica do projeto
+- README.md           # Este arquivo
 
 Como Usar
 Clone o repositório (ou baixe o código-fonte):
