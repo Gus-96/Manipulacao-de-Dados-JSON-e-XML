@@ -20,7 +20,6 @@ Estrutura do Projeto
 - README.md           # Este arquivo
 
 Como Usar
-Clone o repositório (ou baixe o código-fonte):
 - git clone git@github.com:Gus-96/Manipulacao-de-Dados-JSON-e-XML.git
 - cd Manipulacao-de-Dados-JSON-e-XML
 
