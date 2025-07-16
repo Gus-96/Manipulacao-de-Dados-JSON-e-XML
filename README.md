@@ -32,5 +32,4 @@ Antes de começar, certifique-se de ter instalado:
 
 ### 3. Selecione um dia e consulte as transações:
 - No campo de seleção, escolha um dia (de 1 a 30).
-
-### 4. Clique no botão "Consultar Data" para exibir as transações correspondentes ao dia selecionado.
+- Clique no botão "Consultar Data" para exibir as transações correspondentes ao dia selecionado.
